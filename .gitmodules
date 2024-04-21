@@ -1,0 +1,8 @@
+[submodule "livestats.backend"]
+	path = livestats.backend
+	url = https://github.com/krisdimitrov03/livestats.backend.git
+	branch = master
+[submodule "livestats.frontend"]
+	path = livestats.frontend
+	url = https://github.com/krisdimitrov03/livestats.frontend.git
+	branch = master
